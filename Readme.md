@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Виктория Трошкина](https://up.htmlacademy.ru/javascript/21/user/674271).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Лепёшкин] (https://htmlacademy.ru/profile/id144641).
 
 ---
 
